@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pt 8 Firebase-Roger Ferre</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="edit_note">Editar nota</string>
+    <string name="save_note">Guardar</string>
+    <string name="update_note">Actualizar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_note">Eliminar nota</string>
+    <string name="note_saved">Nota guardada</string>
+    <string name="note_updated">Nota actualizada</string>
+    <string name="note_deleted">Nota eliminada</string>
+    <string name="note_validation_error">Completa titulo y contenido.</string>
+    <string name="note_save_error">No se pudo generar el identificador de la nota.</string>
+    <string name="notes_load_error">Error de Firebase: %1$s</string>
+    <string name="firebase_database_url">https://vidalibarraquer-roger-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="delete_note_message">Quieres eliminar la nota &quot;%1$s&quot;?</string>
+    <string name="note_title_hint">Titulo</string>
+    <string name="note_content_hint">Contingut</string>
+    <string name="note_important">Marcar como importante</string>
+    <string name="important_label">Important</string>
+    <string name="normal_label">Normal</string>
+    <string name="edit_label">Editar</string>
+    <string name="delete_label">Eliminar</string>
+</resources>
